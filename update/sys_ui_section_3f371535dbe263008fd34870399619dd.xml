@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>33371535dbe263008fd34870399619df</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>de3d26f5dba663008fd34870399619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,153 +18,181 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>3b371535dbe263008fd34870399619df</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>563d26f5dba663008fd34870399619c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>d63d26f5dba663008fd34870399619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cmdb_ci</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>bb371535dbe263008fd34870399619df</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>5a3d26f5dba663008fd34870399619c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>3</position>
+            <element>u_item_type</element>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>3f371535dbe263008fd34870399619df</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>da3d26f5dba663008fd34870399619c9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_depot</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>5e3d26f5dba663008fd34870399619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>de3d26f5dba663008fd34870399619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>bf371535dbe263008fd34870399619df</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>523d26f5dba663008fd34870399619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>5</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>33371535dbe263008fd34870399619e0</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>d23d26f5dba663008fd34870399619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>b3371535dbe263008fd34870399619e0</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>563d26f5dba663008fd34870399619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>37371535dbe263008fd34870399619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>b7371535dbe263008fd34870399619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>3b371535dbe263008fd34870399619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>bb371535dbe263008fd34870399619e0</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>d63d26f5dba663008fd34870399619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
+            <element>u_location_to_be_used</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-23 18:03:40</sys_created_on>
-            <sys_id>b3371d35dbe263008fd348703996195c</sys_id>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>5a3d26f5dba663008fd34870399619ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-23 18:03:40</sys_updated_on>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_date</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>da3d26f5dba663008fd34870399619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 00:19:18</sys_created_on>
+            <sys_id>5e3d26f5dba663008fd34870399619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_166713_loanr_req_loaner_request" sys_domain="global" view="Default view">3f371535dbe263008fd34870399619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 00:19:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
